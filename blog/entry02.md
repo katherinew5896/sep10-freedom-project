@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2 Technology in cooking
+##### 11/X/XX
 
 Text
 
