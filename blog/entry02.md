@@ -12,7 +12,14 @@ One of many problems have yet to be solved, but the first step is to acknowledge
 ### How to Google
 There are many ways to get information and to learn, but one of the main ways is [Google](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjUzMey8eyCAxUcmYkEHWNvA8EQPAgJ), since its such a big platform with thousands and millions of websites, it has been helpful to read the technological advancements that have been made over the years. Tons of research that are stored into Google can be very helpful. Learning how to Google needs keywords like <b>Technology, Tech,Advancements,Robot, etc</b> when talking about engineering.
 
-### 
+### Communication
+While researching i've noticed that communication was a very important part because to work together is to communicate. We need to communicate in order to make changes while advancing in technology. Communication is how we share ideas and knowledge with one another.
+
+
+## summary
+Overall, i think that we should take careful steps to enforce these techological advances to producing a healthier enviorment for everyone. I got my inspiration from taking care of onesself with creating a healthier mindset and it starts with eating better and feeling better.
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
