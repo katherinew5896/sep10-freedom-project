@@ -29,7 +29,7 @@ I am currently in the  3rd step of Brainstorming where my goal is to figure out 
 ## Skills
 **Communication** I learned how to communicate with my peers on how to research better and to also look deeper into different links and websites. This is very helpful because I can get extra help from my friends and make my work better and detailed. Improving this skill can create connections with people and make friendships. We friends can also help each other with difficulties.
 
-**How to Google** will help me a lot with finding ideas and knowledge about Hardwares and softwares in cooking. For future ideas it is helpful since I can read different sources from anywhere about AI and future technology. By improving this skill I can gather information on the future faster, but also look at old documents that have been written down.
+**How to [Google](https://www.google.com/)** will help me a lot with finding ideas and knowledge about Hardwares and softwares in cooking. For future ideas it is helpful since I can read different sources from anywhere about AI and future technology. By improving this skill I can gather information on the future faster, but also look at old documents that have been written down.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
