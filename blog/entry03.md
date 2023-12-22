@@ -1,7 +1,8 @@
 # Entry 3
-##### X/X/XX
+##### 12/21/23
 
-Text
+## Context
+For blog 3 i am brain storming about the past, present, and future of software and hardware in my topic of cooking.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
