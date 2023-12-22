@@ -22,6 +22,8 @@ For blog 3 I am brainstorming about the past, present, and future of software an
     * Can perfect cooking techniques  
     * Has safety features such as a shutdown button and speed control.(will be tested frequently and checked often for the best results)
 
+## EDP
+I am currently in the  3rd step of Brainstorming where my goal is to figure out how Hardware and Software may impact cooking in the near future. Formy websites I want it to accurately show recipies and show accurate measuring while cooking.
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
