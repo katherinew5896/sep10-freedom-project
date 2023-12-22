@@ -6,21 +6,21 @@ For blog 3 i am brain storming about the past, present, and future of software a
 
 ## Ideas
 * **Future inventions in Cooking**  
-Smart stove/pot  
-Stove/pot that could help time and manage your cooking  
-Stove can turn off when it has to if you're away  
-Pot can have some internal stirring option so food doesn't stick  
+    * Smart stove/pot  
+    * Stove/pot that could help time and manage your cooking  
+    * Stove can turn off when it has to if you're away  
+    * Pot can have some internal stirring option so food doesn't stick  
 * **Advanced Cooking app**  
-Generates recipes based on what ingredients you have on hand  
-Provides measurements and items needed for recipe  
-Can add your own recipe ideas  
-Can show which items are able to be recycled or reused  
-Able to show recipes from all around the world  
-Affordable ways to create more pricey recipes  
+    * Generates recipes based on what ingredients you have on hand  
+    * Provides measurements and items needed for recipe  
+    * Can add your own recipe ideas  
+    * Can show which items are able to be recycled or reused  
+    * Able to show recipes from all around the world  
+    * Affordable ways to create more pricey recipes  
 * **Self operating cooking machine**  
-Cook by itself  
-Can perfect cooking techniques  
-Has safety features such as a shutdown button and speed control.(will be tested frequently and checked often for the best results)
+    * Cook by itself  
+    * Can perfect cooking techniques  
+    * Has safety features such as a shutdown button and speed control.(will be tested frequently and checked often for the best results)
 
 [Previous](entry02.md) | [Next](entry04.md)
 
