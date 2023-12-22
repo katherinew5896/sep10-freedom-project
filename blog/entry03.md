@@ -5,8 +5,8 @@
 For blog 3 i am brain storming about the past, present, and future of software and hardware in my topic of cooking. While brain storming about how technology has been used in the past, i can make ideas on what advancements may come in the near future.
 
 ## Ideas
-* **Future inventions in Cooking**  
-    * Smart stove/pot  
+### **Future inventions in Cooking**  
+* **Smart stove/pot**  
     * Stove/pot that could help time and manage your cooking  
     * Stove can turn off when it has to if you're away  
     * Pot can have some internal stirring option so food doesn't stick  
