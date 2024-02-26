@@ -29,7 +29,7 @@ There are many shapes you could add like boxes, cylinders, squares, and circles.
   </body>
 </html>
 ````
-From this code i've learned to code and changing the property of shapes by using radius, height, color, and width.
+From this code i've learned to code and changing the property of shapes by using radius, height, color, and width. Also from previous projects we've learned how to do positioning and rotation.
 
 
 ## How to add aframe into your HTML
