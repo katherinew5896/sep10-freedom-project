@@ -15,15 +15,17 @@ There are many shapes you could add like boxes, cylinders, squares, and circles.
 
 ## How to add aframe into your HTML
 To add aframe into HTML you can implant this code from the aframe website to your HTML.  
-`<html >
-  <head >
+````
+<html>
+  <head>
     <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
-  </head >
-  <body >
-    <a-scene >
-    </a-scene >
-  </body 
-</html >`
+  </head>
+  <body>
+    <a-scene>
+    </a-scene>
+  </body>
+</html>
+````
 
 
 
