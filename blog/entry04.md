@@ -5,7 +5,7 @@
 This step was about choosing what tools we wanted to use and i decided to use AFrame. Aframe is a framework for building most VR(virual reality) which includes 3d models of items or people. I found some resources to help me in this project with the [aframe](https://aframe.io/) website. Another website i used was [youtube](https://www.youtube.com/watch?v=ktjMCanKNLk&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) where there was a whole playlist about aframe and its use.
 
 ## Basics 
-There are many shapes you could add are boxes, triangles, squares, and circles.
+There are many shapes you could add like boxes, triangles, squares, and circles.  
 *Box*
 
 [Previous](entry03.md) | [Next](entry05.md)
