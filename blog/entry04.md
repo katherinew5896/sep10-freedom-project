@@ -46,7 +46,7 @@ To add aframe into HTML you can implant this code from the aframe website to you
 </html>
 ````
 ## EDP
-Currently on my forth step i am starting to plan out my project and how to incorporate aframe in my project. I am planning on making a 3d model with aframe with its geometry codes and creating a robot out of it for my project. 
+Currently on my forth step i am starting to plan out my project and how to incorporate aframe in my project. I am planning on making a 3d model with aframe with its geometry codes and creating a robot out of it for my project to help people learn cooking with a friendly robot as a teacher and guide.
 
 
 
