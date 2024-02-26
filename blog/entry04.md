@@ -7,7 +7,9 @@ This step was about choosing what tools we wanted to use and i decided to use AF
 ## Basics 
 There are many shapes you could add like boxes, cylinders, squares, and circles.  
 **Box** `<a-entity geometry="primitive: box; width: 1; height: 1; depth: 1"></a-entity>`  
+
 **circle** `<a-entity geometry="primitive: circle; radius: 1" material="side: double"></a-entity>`  
+
 **cylinder** `<a-entity geometry="primitive: cylinder; height: 3; radius: 2"></a-entity>`  
 
 [Previous](entry03.md) | [Next](entry05.md)
