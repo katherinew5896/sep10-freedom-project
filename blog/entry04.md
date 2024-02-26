@@ -12,6 +12,24 @@ There are many shapes you could add like boxes, cylinders, squares, and circles.
 
 **cylinder** `<a-entity geometry="primitive: cylinder; height: 3; radius: 2"></a-entity>`  
 
+
+## How to add aframe into your HTML
+To add aframe into HTML you can implant this code from the aframe website to your HTML.  
+`<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+    </a-scene>
+  </body>
+</html>`
+
+
+
+
+
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
