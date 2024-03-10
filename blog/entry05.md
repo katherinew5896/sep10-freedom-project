@@ -6,7 +6,7 @@ Bootstrap is a popular framework with two distinct parts, bootsrap grid and boot
 
 ## Task
 ### Bootstrap grid
-This presents a container fluid used to align and format websites
+This presents a container fluid and colomns used to align and format websites
 ````
 <div  class="container-fluid">
     <div >
