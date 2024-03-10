@@ -24,8 +24,13 @@ Bootstrap is a popular framework with two distinct parts, bootsrap grid and boot
 
 ````
 ### bootstrap component
-
-
+````
+ <button class="btn btn-primary" type="submit">Button</button>
+````
+````
+ <span class="spinner-border spinner-border-sm" aria-hidden="true"></span>
+ <span role="status">Loading...</span>
+````
 
 
 
