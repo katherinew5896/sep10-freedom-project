@@ -7,9 +7,12 @@ Bootstrap is a popular framework with two distinct parts, bootsrap grid and boot
 ## Task
 Bootstrap grid
 ````
-
-
-
+<div  class="container-fluid">
+    <div >
+     <h1 class=a>about lorem ipsum</h1>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, metus at fringilla elementum, nulla diam vestibulum dolor, a rhoncus sem arcu id nisl. Pellentesque sit amet elementum libero. Suspendisse pharetra maximus convallis. Phasellus urna felis, cursus non convallis sed, ultricies ut arcu. Integer consectetur arcu quis enim placerat cursus. Vivamus et sapien augue. Nullam at tincidunt leo. Morbi malesuada nulla in nibh pharetra, eget viverra purus ullamcorper.</p>
+     </div>
+         </div>
 
 ````
 
