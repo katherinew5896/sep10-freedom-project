@@ -2,7 +2,7 @@
 ##### 3/9/24
 
 ## context
-Bootstrap is a popular framework with two distinct parts, bootsrap grid and bootstrap component 
+Bootstrap is a popular framework with two distinct parts, bootsrap grid and bootstrap component. 
 
 
 
