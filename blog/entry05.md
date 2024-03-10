@@ -16,8 +16,13 @@ Bootstrap grid
 
 ````
 
+````
+ <div class="col-md-6 col-lg-4 col-xl-2 moo">
+            <h5 class=a >lorem ipsum</h5>
+            <p>Sed sed dui pellentesque, interdum sem quis, ultrices tortor. Phasellus ac aliquet orci, id venenatis felis. Etiam at iaculis quam. Integer ac tincidunt sem. Nullam vulputate enim in turpis vehicula pellentesque. Nullam feugiat elementum scelerisque. Proin et quam ut sapien ornare facilisis sit amet eu erat. Praesent ex leo, laoreet et sem ut, rutrum aliquet ligula. Sed cursus eget lacus lacinia ultricies. In eu odio ac eros euismod commodo.</p>
+    </div>
 
-
+````
 
 
 
