@@ -24,7 +24,8 @@ This presents a container fluid and colomns used to align and format websites
     </div>
 
 ````
-### bootstrap component
+### Bootstrap component
+This presents the components of buttom and a loading button you would see on a website
 ````
  <button class="btn btn-primary" type="submit">Button</button>
 ````
