@@ -44,14 +44,14 @@ spinner
   <span class="visually-hidden">Loading...</span>
 </div>
 ````
-#ll3
-single property component
+# LL3
+## single property component
 ````
 <!-- `position` is the name of the position component. -->
 <!-- `1 2 3` is the data of the position component. -->
 <a-entity position="1 2 3"></a-entity>
 ````
-multi-property component
+## multi-property component
 ````
 <!-- `light` is the name of the light component. -->
 <!-- The `type` property of the light is set to `point`. -->
@@ -59,8 +59,10 @@ multi-property component
 <a-entity light="type: point; color: crimson"></a-entity>
 ````
 
-animation component-this lets us animate values
+## animation component-this lets us animate values
+````
 <a-box position="-1 1.6 -5" animation="property: position; to: 1 8 -10; dur: 2000; easing: linear; loop: true" color="tomato"></a-box>
+````
 
 
 
