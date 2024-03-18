@@ -63,7 +63,11 @@ spinner
 ````
 <a-box position="-1 1.6 -5" animation="property: position; to: 1 8 -10; dur: 2000; easing: linear; loop: true" color="tomato"></a-box>
 ````
-
+## light
+this shows the light values to make the shapes come alive
+````
+<a-entity light="color: #AFA; intensity: 1.5" position="-1 1 0"></a-entity>
+````
 
 
 
