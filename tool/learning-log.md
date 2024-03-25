@@ -79,3 +79,108 @@ this shows the light values to make the shapes come alive
 * Questions you still have
 * What you're going to try next
 -->
+
+
+# LL4
+## 3/24/24
+
+### Link:
+
+https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
+https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
+
+
+### About how the camera: 
+
+````
+<a-scene>
+  <a-box></a-box>
+  <a-camera></a-camera>
+</a-scene>
+````
+````
+<!-- Place camera at ground level (will be overridden by VR devices) -->
+<a-camera position="0 0 0"></a-camera>
+````
+
+````
+<a-entity id="rig" position="25 10 0">
+  <a-camera id="camera"></a-camera>
+</a-entity>
+````
+
+
+### shapes:
+````
+<a-entity geometry="primitive: box; width: 1; height: 1; depth: 1"></a-entity>
+````
+````
+<a-entity geometry="primitive: circle; radius: 1" material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: cone; radiusBottom: 1; radiusTop: 0.1"></a-entity>
+````
+````
+<a-entity geometry="primitive: cylinder; height: 3; radius: 2"></a-entity>
+````
+````
+<a-entity geometry="primitive: cylinder; openEnded: true" material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: cylinder; openEnded: true; thetaLength: 180"
+          material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: dodecahedron; radius: 2"></a-entity>
+````
+````
+<a-entity geometry="primitive: octahedron"></a-entity>
+````
+````
+<a-entity geometry="primitive: icosahedron"></a-entity>
+````
+````
+<a-entity geometry="primitive: plane; height: 10; width: 10" material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: ring; radiusInner: 0.5; radiusOuter: 1"
+          material="side: double"></a-entity>
+````
+
+### Adding text:
+
+````
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-sky color="lightblue"></a-sky>
+      <a-text value="ABCあいうえお日本語" font="custom-msdf.json" font-image="custom-msdf.png" negate="false" scale="2 2 1" position="-2 2 -4"></a-text>
+    </a-scene>
+  </body>
+</html>
+````
+
+
+### hand-controls:
+
+````
+<a-entity id="leftHand" hand-controls="hand: left; handModelStyle: lowPoly; color: #ffcccc"></a-entity>
+<a-entity id="rightHand" hand-controls="hand: right; handModelStyle: lowPoly; color: #ffcccc"></a-entity>
+````
+
+### hand-tracking-controls:
+````
+<a-entity id="leftHand" hand-tracking-controls="hand: left;"></a-entity>
+<a-entity id="rightHand" hand-tracking-controls="hand: right;"></a-entity>
+````
+
+
+### hand-tracking-grab-controls: 
+````
+<a-entity id="leftHand" hand-tracking-grab-controls="hand: left;"></a-entity>
+<a-entity id="rightHand" hand-tracking-grab-controls="hand: right;"></a-entity>
+````
