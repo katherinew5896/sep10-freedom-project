@@ -184,3 +184,26 @@ https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
 <a-entity id="leftHand" hand-tracking-grab-controls="hand: left;"></a-entity>
 <a-entity id="rightHand" hand-tracking-grab-controls="hand: right;"></a-entity>
 ````
+
+#### Background
+
+How to add sky:
+````
+<a-scene>
+  <a-assets>
+    <img id="sky" src="sky.png">
+  </a-assets>
+  <a-sky src="#sky"></a-sky>
+</a-scene>
+````
+
+
+````
+<a-sky color="#6EBAA7"></a-sky>
+````
+
+#### Reflection:
+````
+<a-scene reflection="directionalLight:a-light#dirlight;"></a-scene>
+	<a-light id="dirlight" intensity="1" light="castShadow:true;type:directional" position="1 1 1"></a-light>
+````
