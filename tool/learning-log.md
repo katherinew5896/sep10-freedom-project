@@ -220,15 +220,58 @@ https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
 
 
 
-anchored
+#### Anchored
 ````
 <a-entity id="myBox" anchored="persistent: true" geometry="primitive: box" material="color: red"></a-entity>
 ````
 
+#### Position
+It goes like x,y,z
 
-Trying a lot of the code I learned together:
+x	Negative X axis extends left. Positive X Axis extends right.	0
+y	Negative Y axis extends down. Positive Y Axis extends up.	0
+z	Negative Z axis extends in. Positive Z Axis extends out.	0
+
+````
+<a-entity position="0 1 -1"></a-entity>
+````
+````
+<a-entity id="parent" position="1 2 3">
+  <a-entity id="child1"></a-entity>
+  <a-entity id="child2" position="2 3 4"></a-entity>
+</a-entity>
+````
+
+#### Scale
+
+x	Scaling factor in the X direction.	1
+y	Scaling factor in the Y direction.	1
+z	Scaling factor in the Z direction.	1
+
+````
+<a-entity scale="0.5 1 2"></a-entity>
+````
 
 
+````
+<a-entity geometry="primitive: sphere; radius: 1000"
+          material="src: sky.png"
+          scale="1 1 -1"></a-entity>
+````
 
+#### Shadow
+````
+<a-entity light="type:directional; castShadow:true;" position="1 1 1"></a-entity>
+<a-gltf-model src="tree.gltf" shadow="receive: false"></a-gltf-model>
+````
 
+#### xr-mode-ui
+````
+<a-scene xr-mode-ui="enabled: false"></a-scene>
+````
 
+windows-motion-controls
+````
+<a-entity windows-motion-controls="hand: left"></a-entity>
+<a-entity windows-motion-controls="hand: right"></a-entity>
+````
