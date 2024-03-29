@@ -207,3 +207,13 @@ How to add sky:
 <a-scene reflection="directionalLight:a-light#dirlight;"></a-scene>
 	<a-light id="dirlight" intensity="1" light="castShadow:true;type:directional" position="1 1 1"></a-light>
 ````
+
+
+
+# LL5
+## 3/29/24
+
+### Link:
+
+https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
+https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
