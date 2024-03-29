@@ -217,3 +217,18 @@ How to add sky:
 
 https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
 https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
+
+
+
+anchored
+````
+<a-entity id="myBox" anchored="persistent: true" geometry="primitive: box" material="color: red"></a-entity>
+````
+
+
+Trying a lot of the code I learned together:
+
+
+
+
+
