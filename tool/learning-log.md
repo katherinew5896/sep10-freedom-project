@@ -342,3 +342,5 @@ So far I have made a outline
 I will be using blender to make a 3D model of a roblox or I might just use Aframe to make a model like what I did for the kitchen. 
 
 A picture of what I did
+
+![Kat](kitchen.png)
