@@ -275,3 +275,15 @@ windows-motion-controls
 <a-entity windows-motion-controls="hand: left"></a-entity>
 <a-entity windows-motion-controls="hand: right"></a-entity>
 ````
+
+# LL6 
+## 4/5/24
+
+### Link:
+
+https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
+https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
+
+
+
+
