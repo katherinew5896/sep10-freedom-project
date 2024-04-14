@@ -9,7 +9,6 @@ During this section of the year I have been learning how to create 3d models of 
 ## Sources
 
 
-## EDP
 
 
 ## skills
