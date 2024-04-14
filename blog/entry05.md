@@ -4,6 +4,7 @@
 ## context
 During this section of the year I have been learning how to create 3d models of a background/my cooking robot to try and invision my project. By using geometric shapes and codes I am able to achieve a few more steps
 
+### Codes/ways of tinkering that I did
 
 ## Sources
 
