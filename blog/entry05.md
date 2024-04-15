@@ -2,7 +2,7 @@
 ##### 4/8/24
 
 ## context
-During this section of the year I have been learning how to create 3d models of a background/my cooking robot to try and invision my project. By using geometric shapes and codes I am able to achieve a few more steps
+During this section of the year I have been learning how to create 3d models of a background/my cooking robot to try and invision my project. By using geometric shapes and codes I am able to achieve a few more steps towards my goal of the freedom project with Aframe 3d models. Some more detailed examples are:
 
 ### Codes/ways of tinkering that I did
 
