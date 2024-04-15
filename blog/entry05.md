@@ -62,6 +62,7 @@ This is a code for the background model for the cooking robot to use and show wh
 ## skills
 1. First skill i learned is communicating with my peers on how to fix problems with my code even when it was identical to the website code. I realized that sometimes even if the code is the exact same it wont always work the same on every platform and asked for advice to which my peers suggested that i try researching my problem on [google](google.com) or [youtube](youtube.com) and it helped since many people seem to be having the same problem as well.
 2. Second skill i learned in to be on the look out on slack because there are many students who need help with many things and sometimes one person asks a question that many have been struggling with but are too shy or scared to ask. I personally find this very convenient because I am also shy, but good thing majority of people are also doing Aframe so it makes things easier.
+3. Third skill i learned is to tinker with other creators work that is provided on Aframe because i can see what each code does and it helps me with starting out with a base code kind of. Tinkering is very helpful when you are starting out with something new and can be a learning experience. 
 
 
 
