@@ -60,7 +60,7 @@ This is a code for the background model for the cooking robot to use and show wh
 [shadow/light](https://aframe.io/docs/1.5.0/components/light.html#configuring-shadows) that goes in depth for the explanation.
 
 ## skills
-
+1. First skill i learned is communicating with my peers on how to fix problems with my code even when it was identical to the website code. I realized that sometimes even if the code is the exact same it wont always work the same on every platform and asked for advice to which my peers suggested that i try researching my problem on [google](google.com) or [youtube](youtube.com)
 
 
 
