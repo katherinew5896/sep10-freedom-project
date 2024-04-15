@@ -56,10 +56,8 @@ This is a code for the background model for the cooking robot to use and show wh
 ````
 
 ## Sources
-[Aframe](https://aframe.io/docs/1.5.0/components/shadow.html) Website for shadows
-[shadow/light](https://aframe.io/docs/1.5.0/components/light.html#configuring-shadows)
-
-
+[Aframe](https://aframe.io/docs/1.5.0/components/shadow.html) Website for shadows  
+[shadow/light](https://aframe.io/docs/1.5.0/components/light.html#configuring-shadows) that goes in depth for the explanation.
 
 ## skills
 
