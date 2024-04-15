@@ -2,7 +2,55 @@
 ##### 4/8/24
 
 ## context
-During this section of the year I have been learning how to create 3d models of a background/my cooking robot to try and invision my project. By using geometric shapes and codes I am able to achieve a few more steps towards my goal of the freedom project with Aframe 3d models. Some more detailed examples are:
+During this section of the year I have been learning how to create 3d models of a background/my cooking robot to try and invision my project. By using geometric shapes and codes I am able to achieve a few more steps towards my goal of the freedom project with Aframe 3d models. Some more detailed examples are:  
+````
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+            <a-box position="-1.5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="-1 0.5 -5" color="#FFF"></a-box>
+            <a-box position="-0.5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="0.5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="1 0.5 -5" color="#FFF"></a-box>
+            <a-box position="1.5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="2 0.5 -5" color="#FFF"></a-box>
+            <a-box position="2.5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="3 0.5 -5" color="#FFF"></a-box>
+            <a-box position="3.5 0.5 -5" color="#FFF"></a-box>   
+            <a-box position="4 0.5 -5" color="#FFF"></a-box>
+            <a-box position="4.5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="5 0.5 -5" color="#FFF"></a-box>
+            <a-box position="-1.5 1.5 -5" color="#FFF"></a-box>
+            <a-box position="-1 1.5 -5" color="#FFF"></a-box>
+      
+            <a-box position="1 3 -5" color="#FFF"></a-box>
+            <a-box position="1.5 3 -5" color="#FFF"></a-box>
+            <a-box position="2 3 -5" color="#FFF"></a-box>
+      
+      
+      
+      
+      
+      
+      
+    
+      
+      
+      
+      
+      
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-plane position="4 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+````
+This is a code for the background model for the cooking robot to use and show what my project would be about.
 
 ### Codes/ways of tinkering that I did
 
