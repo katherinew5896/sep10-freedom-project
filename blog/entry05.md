@@ -50,9 +50,10 @@ During this section of the year I have been learning how to create 3d models of 
   </body>
 </html>
 ````
-This is a code for the background model for the cooking robot to use and show what my project would be about.
-
-### Codes/ways of tinkering that I did
+This is a code for the background model for the cooking robot to use and show what my project would be about. Some extra knowledge i learned was to add shadows to the shapes to add demention and make my model better looking.  
+````<a-entity light="type:directional; castShadow:true;" position="1 1 1"></a-entity>
+<a-gltf-model src="tree.gltf" shadow="receive: false"></a-gltf-model>
+````
 
 ## Sources
 
