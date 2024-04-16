@@ -16,9 +16,9 @@
 * 4/18 tinker more
 * 4/19-5/1 start coding and finishing my model
 
-#### MVP
-
-* Task/Timeline
+## components
+* navbar
+* card
 
 ---
 
