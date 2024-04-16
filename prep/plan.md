@@ -12,6 +12,9 @@
 * [Text](https://fonts.google.com/selection/embed)
 
 ## Timeline
+* 4/15-4/18 plan
+* 4/18 tinker more
+* 4/19-5/1 start coding and finishing my model
 
 #### MVP
 
