@@ -9,7 +9,7 @@
 * #a2a3a3 #b9bcbd #6d6e6e
 
 ## Fonts
-* [Text](URL)
+* [Text](https://fonts.google.com/selection/embed)
 
 ## Timeline
 
