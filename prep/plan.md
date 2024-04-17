@@ -13,7 +13,7 @@
 
 ## Timeline
 * 4/15-4/18 plan out my steps
-* 4/18 tinker more with aframe and components
+* 4/18 tinker more with aframe and components.. maybe try out some new ones
 * 4/19-5/1 start coding and finishing my model
 
 ## components
@@ -21,7 +21,3 @@
 * card
 * containers/columns
 ---
-
-#### Beyond MVP
-
-* Task
