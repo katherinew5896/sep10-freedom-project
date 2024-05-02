@@ -11,7 +11,11 @@ I made my MVP by first starting with the more challenging part--the aframe model
 
 
 ## Skills
-1. one skill i learned was to not be afraid to ask my classmates because i am shy and dont ask for help as much as i should. I realized how important this skill is due to me improving from my peers comments and feedbacks on my work. It is important to build relationships to kind of help give you a push when you need it. 
+1. one skill I learned was to not be afraid to ask my classmates because i am shy and dont ask for help as much as i should. I realized how important this skill is due to me improving from my peers comments and feedbacks on my work. It is important to build relationships to kind of help give you a push when you need it. 
+2. I also learned how to build an aframe model from the geometric shapes. I made my own little robot with cylinders and made it walk forward over and over again. 
+
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
