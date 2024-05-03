@@ -24,6 +24,19 @@ I made my MVP by first starting with the more challenging part--the aframe model
 * card
 * containers/columns
 
+### Challenges while making my MVP
+As I said before I faced different chanllenges some of which is:
+
+Making my aframe-
+
+Aframe destorying my website-
+
+
+### Takeaways from making my MVP
+
+Try out codes-
+
+Plan before making a webiste-
 
   
 ## Sources
@@ -34,8 +47,9 @@ I am on the 6 and 7 step of EDP. Which step 6 is Test and evaluate the prototype
 
 ## Skills
 1. one skill I learned was to not be afraid to ask my classmates because i am shy and dont ask for help as much as i should. I realized how important this skill is due to me improving from my peers comments and feedbacks on my work. It is important to build relationships to kind of help give you a push when you need it. 
-2. I also learned how to build an aframe model from the geometric shapes. I made my own little robot with cylinders and made it walk forward over and over again. 
-3. 
+2. I also learned how to build an aframe model from the geometric shapes. I made my own little robot with cylinders and made it walk forward over and over again.
+  
+3.The last skill I learned was planning 
 
 
 
