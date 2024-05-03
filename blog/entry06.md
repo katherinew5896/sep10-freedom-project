@@ -40,7 +40,7 @@ Plan before making a webiste-
 
   
 ## Sources
-
+one source i found was this [website](https://www.8thwall.com/8thwall/animation-mixer-aframe/code/assets/robot.glb) that had a robot made from aframe and i got inspiration from this aframe.
 
 ## EDP
 I am on the 6 and 7 step of EDP. Which step 6 is Test and evaluate the prototype and step 7 is Improve as needed. 
