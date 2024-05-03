@@ -26,7 +26,9 @@ I made my MVP by first starting with the more challenging part--the aframe model
 * navbar
 * card
 * containers/columns
-* 
+
+
+  
 ## Sources
 
 
