@@ -40,8 +40,7 @@ Plan before making a webiste-
 
   
 ## Sources
-one source i found was this [website](https://www.8thwall.com/8thwall/animation-mixer-aframe/code/assets/robot.glb) that had a robot made from aframe and i got inspiration from this aframe. Also for aframe I found websites that teach me how Aframe works like ["Aframe youtube"]([https://wireframe.cc/Xlfyih)
-](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe website"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html)
+one source i found was this [website](https://www.8thwall.com/8thwall/animation-mixer-aframe/code/assets/robot.glb) that had a robot made from aframe and i got inspiration from this aframe. Also for aframe I found websites that teach me how Aframe works like ["Aframe youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe website"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html)
 
 
 ## EDP
