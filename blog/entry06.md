@@ -42,7 +42,7 @@ After i added the iframe my code worked out fine and everything remained seen.
 
 Try out codes-At first i wanted everything to look perfect and my codes work well and was scared of making mistakes i couldn't change but quickly realized that making a mistake was a process of improving throughout my project and that testing different codes to see what they would look like helped me a lot with how i wanted my final website to look like. It is very important to try out random codes and see which one is perfect for you and what works as well. It was quite difficult figuring out what to do when my code was bugging out and after testing it, it worked in the end.
 
-Plan before making a webiste-
+Plan before making a webiste- My plan was to make a simple format yet something filled with lots of information but not too much to the point it was all shoved into a little space. I also wanted it to look decently decorated, but my aframe was more important so i focused on that more. My robot is a very simple robot build with easy shapes and isnt that complicated yet since i haven't learned enough. I didn't want my website to be a mess so i decided to keep it simple and keep it on the safer side.
 
   
 ## Sources
