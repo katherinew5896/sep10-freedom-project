@@ -50,12 +50,12 @@ One source i found was this [website](https://www.8thwall.com/8thwall/animation-
 
 
 ## EDP
-I am on the 6 and 7 step of EDP. Which step 6 is Test and evaluate the prototype and step 7 is Improve as needed. 
+I am on the 6 and 7 step of EDP. Which step 6 is Test and evaluate the prototype and step 7 is Improve as needed. After making my prototype of the cooking robot i knew that it needed to be better and well made since it is a pretty simple model with just shapes and a simple animation. For my future works i hope to make better use of my resources i have and create a more life-like robot like maybe a human built. My robot will need more movement since its going to be cooking and moving around a lot. I'm planning to learn more codes to animation potentially.
 
 ## Skills
 1. one skill I learned was to not be afraid to ask my classmates because i am shy and dont ask for help as much as i should. I realized how important this skill is due to me improving from my peers comments and feedbacks on my work. It is important to build relationships to kind of help give you a push when you need it.
-2. I also learned how to build an aframe model from the geometric shapes. I made my own little robot with cylinders and made it walk forward over and over again.
-3. The last skill I learned was planning 
+2. I also learned how to build an aframe model from the geometric shapes. I made my own little robot with cylinders and made it walk forward over and over again. It is not something amazing but it is a work in progress towards this freedom project and it can become better.
+3. The last skill I learned was planning my every step when completing this project. I had focused a little too much on the creativity aspect of this website and i think i needed some more time to work on my codes so that it was actually useable. Even if the website looks alright its more important that it actually works well. 
 
 
 
