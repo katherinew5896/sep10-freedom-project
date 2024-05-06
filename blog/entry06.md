@@ -28,8 +28,16 @@ I made my MVP by first starting with the more challenging part--the aframe model
 Making my aframe- One challenge i faced while making my mvp was making the aframe look to what i had imagined with the code i had learned from sources. This was a challenge because i wanted my aframe robot to look good but with just very simple shapes i learned. Also i had a hard time understanding the mechanics of making the robot move back and forth. But i just tried my best since this is more of practice for me to improve later on.
 
 Aframe destorying my website-Once i had finished adding components to my website and adding text into it, i finally added my aframe but when i viewed my website after it had gotten rid some of my extra information towards the bottom and i had to figure out what i was missing from my html that was in the way of my code disappearing. After thinking a lot and asking my friends i finally fixed my code by adding `<iframe></iframe>`
+````
+<div class="container">
+  <div class="row ">
 
-
+<div class="col purple">
+  <iframe src= aframe.html class= "aframe">
+    </iframe>
+</div>
+```
+After i added the iframe my code worked out fine and everything remained seen.
 ### Takeaways from making my MVP
 
 Try out codes-At first i wanted everything to look perfect and my codes work well and was scared of making mistakes i couldn't change but quickly realized that making a mistake was a process of improving throughout my project and that testing different codes to see what they would look like helped me a lot with how i wanted my final website to look like. It is very important to try out random codes and see which one is perfect for you and what works as well. It was quite difficult figuring out what to do when my code was bugging out and after testing it, it worked in the end.
