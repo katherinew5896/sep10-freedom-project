@@ -16,12 +16,14 @@
 * 4/18 tinker more with aframe and components.. maybe try out some new ones
 * 4/19-5/1 start coding and finishing my model
 
+## coponents
+* navbar
+* card
+* containers/columns
+
+
 ## changes
 * fix navbar
 * center image
 * add padding.margin
-
-* navbar
-* card
-* containers/columns
 ---
