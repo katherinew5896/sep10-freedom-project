@@ -25,5 +25,6 @@
 ## changes
 * fix navbar
 * center image
-* add padding.margin
+* add padding/margin
+* fill empty space
 ---
