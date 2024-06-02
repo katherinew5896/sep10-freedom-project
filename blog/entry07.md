@@ -17,6 +17,7 @@ As for my **presentation** in front of the whole class i also think i needed to 
 3. third skill i learned was public speaking. After presenting in front of the whole class i realized that i needed some more energy in me and to present my project to reflect the amount of time i used on it. While presenting in the expo i used my experience from presenting in the class with the judges and added more enthusiasm so i didn't sound like a robot myself. It is important to also be proud of what you have rather then hating it because something is better than nothing.
 
 ## EDP 
+Currently i am on the 8th step which is communication of my results. After a whole year of learning different codes and expanding my creativity, i have used a good amount of it in my website for my final project which also included my aframe. I have used components i learned from bootstrap and aframe and also other things like containers/or fluids. Implimenting my aframe was also a bit difficult as it was my first time doing it but with research and time i figured it out. My website is informational yet it is not too cramped up and filled with tons of things.
 
 
 [Previous](entry06.md) | [Next](entry08.md)
