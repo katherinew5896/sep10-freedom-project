@@ -9,6 +9,7 @@ As for my **presentation** in front of the whole class i also think i needed to 
 ## sources
 1. [Aframe](https://aframe.io/docs/1.5.0/introduction/)-the website really helped me with the coding process since its my first time being exposed to model making in 3d forms so it was good to see detailed explainations from each component and codes to create a model. On the website there were also other peoples models and codes that i could look at and learn about which was very informational.
 2. [youtube](youtube.com)-youtube was especially helpful because there were people explaining each different types of codes that i needed for my model and it helped inspire me to make my cooking robot out of cylinders and add animation to invision its robotic use.
+3. [wireframe](wireframe.cc)-wireframe was the first step to planning out my website for how it was going to look in the end. This is very important as my website was needed to showcase my aframe. I needed to incorporate my creativity into the wireframes to grasp an idea of what my final design was going to look like. It was also helpful looking at my classmates wireframes to see what mistakes they made and improve mine as well.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
