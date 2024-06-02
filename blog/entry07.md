@@ -6,6 +6,9 @@ While giving my **elevator pictches** to my classmates i realized that i needed 
 
 As for my **presentation** in front of the whole class i also think i needed to add some energy and be less stiff. Being in front of a lot of people is a bit intimidating and is something everyone needs to do in their lifetime. For me its scary when everyone just has a bored look on their face and it feels like theyre judging, but really everyone's in the same boat as i am. For future situations i think i need to make more eye contact and also add some emotion into my voice so it can be a little more interesting for listeners. For my slides i want to make it more fun looking and not a white background.
 
+## sources
+1. Aframe-the website really helped me with the coding process since its my first time being exposed to model making in 3d forms so it was good to see detailed explanations from each component and codes to create a model. On the website there were also other peoples models and codes that i could look at and learn about which was very informational.
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
