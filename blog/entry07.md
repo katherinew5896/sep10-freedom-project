@@ -11,6 +11,11 @@ As for my **presentation** in front of the whole class i also think i needed to 
 2. [youtube](youtube.com)-youtube was especially helpful because there were people explaining each different types of codes that i needed for my model and it helped inspire me to make my cooking robot out of cylinders and add animation to invision its robotic use.
 3. [wireframe](wireframe.cc)-wireframe was the first step to planning out my website for how it was going to look in the end. This is very important as my website was needed to showcase my aframe. I needed to incorporate my creativity into the wireframes to grasp an idea of what my final design was going to look like. It was also helpful looking at my classmates wireframes to see what mistakes they made and improve mine as well.
 
+## skills
+1. one skill i have improved on was my planning, this was very much needed as in my past projects i relied on pure luck to come up with something on the spot and try and make everything come together. While making my wireframe i had an idea while browsing on different websites and looked at which format was good. Obviously i didnt want a bunch of information stuffed into my website, but i also didnt want to have too much blank space. Also planning my website i wanted to add some components so it could be better.
+2. another skill i learned was communication. As i realized quite many people were also doing the topic of cooking and so i asked what they had planned for their models as a way to gain knowledge and inspiration. Ultimatly i had decided on a cooking robot because of the amount of AI presence consuming our world right now. It would make sense to have a moving robot like in the movies that do things for you.
+3. 
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
