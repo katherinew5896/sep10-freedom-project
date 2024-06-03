@@ -4,15 +4,15 @@ by **X**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **cooking**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **aframe** in order to help me make by website.
 
 ## Links
 
-[Product]()
+[Product](https://katherinew5896.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1d_7edsbT0-J64DP0yx-owu56uBBWaEJnBd4Nw74BUtk/edit)
 
 ## Implications
 ##### PROS
