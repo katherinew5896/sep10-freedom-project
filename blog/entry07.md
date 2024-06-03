@@ -23,7 +23,7 @@ Currently i am on the 8th step which is communication of my results. After a who
 
 ## Overview
 During the first year of SEP this freedom project was to expand our 10th grade minds and make something from scratch that we learned during the whole year. It is to make a website and model that we were proud of for the future of technology. As my topic suggests cooking is a very improtant invention since ancient times for survival. As such it will also be incorporated into technology for many years to come as it already has. When it comes to technology we also want to use it to make our lives easier when it comes to everyday things. The idea of a robot being in your home may sound scary as movies show robots going berserk when the coding is off and it gains a mind of its own. That is one negative possibility, but we can also add safety features to them like how we use heaters, stoves, microwaves, ovens, and etc. Globally it has changed many lives around the world and mostly everyone uses them to create a economic rise for items similar to cooking robots. This can positively impact the enviorment as cooking robots only needs electricity for it to run and not gas/fuel. My invention can help many people around the world socially for people who may be disabled or dont know how to cook. It can be a very helpful hand for citizens and can change the world.  
-[**my project**](https://katherinew5896.github.io/sep10-freedom-project/)
+[**my project**](https://katherinew5896.github.io/sep10-freedom-project/)  
 [**my presentation**](https://docs.google.com/presentation/d/1d_7edsbT0-J64DP0yx-owu56uBBWaEJnBd4Nw74BUtk/edit#slide=id.p)
 
 
